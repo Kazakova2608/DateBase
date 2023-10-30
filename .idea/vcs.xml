@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DB" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Web" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kalkulyator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shagomer" vcs="Git" />
